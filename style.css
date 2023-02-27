@@ -1,0 +1,225 @@
+
+.body {
+    background-color: #ffffff;
+    
+}
+.fullsite {
+   
+   
+   
+}
+.logomenu {
+    margin-top: 20px;
+}
+.logo {
+    
+   margin-left: 20px;
+}
+.menu {
+    
+   float : right;
+   margin-top: 20px;
+   margin-right: 20px;
+}
+.herotext {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: px;
+    margin-top: 110px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.showreel {
+    position: relative;
+    bottom : 30px;
+}
+.message-us{
+    position: relative;
+}
+.msg{
+   position: relative;
+   bottom: 100px;
+   left: 20px;
+}
+.talk {
+    position: relative;
+    bottom: 5px;
+    left: 140px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    writing-mode: vertical-lr;
+}
+.scroll {
+    position: relative;
+    float: right;
+    margin-right: 20px;
+    bottom: 100px;
+
+}
+#design {
+    background-color: rgb(255, 255, 255);
+    position :relative;
+    bottom: 80px;
+    height: 750px;
+}
+.web-design {
+    margin: 130px;
+}
+.maintext1 {
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    bottom: 500px;
+    left: 50px;
+}
+.text1 {
+    position: relative;
+    margin-left: 290px;
+    margin-right: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    bottom: 720px;
+    left: 100px;
+    padding: 200px;
+}
+#digital {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    bottom: 80px;
+    height: 700px;
+
+}
+.digital-branding {
+    position: relative;
+    margin: 130px;
+}
+.maintext2 {
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    bottom: 500px;
+    left: 70px;
+    
+    
+
+
+}
+.text2 {
+    position: relative;
+    margin-left: 290px;
+    margin-right: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    bottom: 720px;
+    left: 100px;
+    padding: 200px;
+}
+#ads {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 80px;
+    height: 700px;
+
+}
+.digital-ads {
+    position: relative;
+    margin: 130px;
+
+}
+.maintext3 {
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    bottom: 500px;
+    left: 70px;
+
+}
+.text3 {
+    position: relative;
+    margin-left: 290px;
+    margin-right: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    bottom: 720px;
+    left: 100px;
+    padding: 200px;
+
+}
+h2 {
+    position: relative;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    bottom: 60px;
+}
+.testimonial1 {
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom : 250px;
+    background-color: black;
+    margin: 180px;
+    width:350px;
+    padding: 40px;
+    color: #FFFAEC;
+    border-radius: 25px;
+}
+.testimonial2 {
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom : 623px;
+    background-color: rgb(164, 11, 11);
+    width:350px;
+    margin-left: 700px;
+    padding: 40px;
+    color: #FFFAEC;
+    border-radius: 25px;
+}
+.arrow3 {
+    position: relative;
+    top: 35px;
+
+}
+.arrow2 {
+    position: relative;
+    bottom: 740px;
+    float: right;
+}
+.footer {
+    width: 1920px;
+    background-color: black;
+    position : relative;
+    bottom : 550px;
+    width : 1700px;
+    height: 200px;
+    padding: 20px;
+}
+.kcuube {
+    position : relative;
+    top: 60px;
+}
+.getInTouch {
+    position: relative;
+    color : white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 200px;
+    bottom: 36px;
+}
+.explore{
+    position: relative;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 800px;
+    bottom: 115px;
+}
+#form {
+    position: relative;
+    background-color: blue;
+    padding: 130px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+}
